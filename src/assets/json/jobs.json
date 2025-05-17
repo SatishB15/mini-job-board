@@ -1,0 +1,47 @@
+[
+  {
+    "id": "52b3cc21-14cc-415f-b495-7788b4624a08",
+    "title": "Frontend Developer",
+    "company": "TechNova",
+    "role": "Full-time",
+    "location": "Bengaluru",
+    "postedDate": "2024-05-01T10:00:00Z",
+    "description": "Looking for a React developer with 2+ years of experience. Good understanding of HTML, CSS, JavaScript, and Git."
+  },
+  {
+    "id": "ee7bde33-fb6f-498a-a065-02173b58c103",
+    "title": "Backend Developer",
+    "company": "CodeWorks",
+    "role": "Full-time",
+    "location": "Pune",
+    "postedDate": "2024-05-05T12:00:00Z",
+    "description": "Node.js developer needed to build REST APIs. Should be familiar with MongoDB and Express.js."
+  },
+  {
+    "id": "43aad09d-d4cd-48dd-96d1-472c22a1950f",
+    "title": "UI/UX Designer",
+    "company": "PixelCraft",
+    "role": "Part-time",
+    "location": "Mumbai",
+    "postedDate": "2024-05-07T09:30:00Z",
+    "description": "Design clean user interfaces for web apps. Experience with Figma or Adobe XD preferred."
+  },
+  {
+    "id": "568f9008-d834-47d7-88e6-61b5f461ac22",
+    "title": "DevOps Engineer",
+    "company": "CloudNest",
+    "role": "Full-time",
+    "location": "Hyderabad",
+    "postedDate": "2024-05-10T08:00:00Z",
+    "description": "Set up CI/CD pipelines and manage cloud infrastructure (AWS/GCP)."
+  },
+  {
+    "id": "e33637c3-c969-428c-85c6-ec002eb6c344",
+    "title": "Mobile App Developer Intern",
+    "company": "Appify",
+    "role": "Internship",
+    "location": "Remote",
+    "postedDate": "2024-05-14T14:15:00Z",
+    "description": "Internship for Flutter app development. Basic knowledge of Dart and mobile UI design required."
+  }
+]
